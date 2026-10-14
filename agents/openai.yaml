@@ -1,0 +1,6 @@
+interface:
+  display_name: "口播封面 Skill"
+  short_description: "同主题生成两张夸张表情的真人口播封面，横版A为4:3，竖版为3:4"
+  default_prompt: "使用 $koubo-cover，根据我的口播主题制作两张封面，横版A为4:3，竖版为3:4，表情明显夸张。"
+policy:
+  allow_implicit_invocation: true
