@@ -28,3 +28,8 @@ git clone https://github.com/yesterising/koubo-cover.git "${CODEX_HOME:-$HOME/.c
 本版本由 yesterising 维护，保留本地定制的设计与交付规则。公开版不包含作者的肖像、第三方封面截图或图像生成凭据。人物由每位使用者自行提供，风格参考可选。设计观察的来源见 [人物与视觉规则](references/visual-rules.md)，表情与服装库属于本技能的文字制作规则。
 
 MIT，见 [LICENSE](LICENSE)。照片、外部参考图片、字体与生成服务不由本仓库许可提供。
+<img width="1448" height="1086" alt="横屏" src="https://github.com/user-attachments/assets/ff2a9628-b6a4-4762-8225-73fef22d3203" />
+<img width="1448" height="1086" alt="邵艾伦孙宇晨4小时精华对谈_双脸拼接_横版A" src="https://github.com/user-attachments/assets/ecfed5c4-7d97-49e9-a160-3175fe959ec9" />
+<img width="1448" height="1086" alt="ChatGPT封面_横版A" src="https://github.com/user-attachments/assets/01b79e1c-1bfa-4070-be7e-3de99f0e4074" />
+<img width="1448" height="1086" alt="一键剪辑封装开源了_横版A" src="https://github.com/user-attachments/assets/1da65062-a84a-4c77-a7e8-e5c1ee3accad" />
+
